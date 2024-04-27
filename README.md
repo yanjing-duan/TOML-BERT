@@ -1,5 +1,9 @@
 # TOML-BERT
 Task-Oriented Multi-level Learning based on BERT (TOML-BERT): a dual-level pretraining framework that considers both structural patterns and domain knowledge for molecular property prediction. 
+
+![image](https://github.com/yanjing-duan/TOML-BERT/assets/123799114/6e591beb-6caa-4f91-83bb-f26c705a1649)
+
+
 ## Overview
 * node-level pretraining: contains the codes for the masked atom prediction pre-training task.
 * graph-level pretraining (regression) and graph-level pretraining (classification): contains the codes for pseudo-label prediction pre-training tasks.
